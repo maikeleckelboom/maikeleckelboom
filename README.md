@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maikeleckelboom
-- 👀 Developer with a passion for building web applications from the ground up
-- ✨ Enjoys staying up to date with the latest trends in development and continuously refining my skills
+- 🌐 Web Developer passionate about crafting web applications from scratch
+- 📚 Constantly learning and keeping up with the latest in web development
 
 <!---
 maikeleckelboom/maikeleckelboom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
